@@ -1,2 +1,6 @@
 Chapter about Data Augumentation and its impact on training accuracy and test accuracy.
 All the code in this folderwas recreated following chapter2 on Practitioner bundle.
+
+Here aug_demo.py is a Demo of Data Augmentation
+In minivgg_flowers.py we are training MiniVGG network on flowers-17 dataset without data augmentation
+In minivggnet_flowers_dataaug.py we are training MiniVGG network on flowers-17 dataset with data augmentation
